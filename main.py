@@ -23,6 +23,8 @@ def scroll(driver):
             html01 = html02
         else:
             break
+            
+            
 def main():
     """
     特許情報プラットフォームにて任意の検索項目にヒットする
